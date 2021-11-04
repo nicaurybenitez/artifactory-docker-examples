@@ -1,4 +1,4 @@
-# DEPRECATED
+# POC
 This repository's examples are deprecated and are not maintained anymore.<br>
 You should now use the [official JFrog Platform distributions](https://www.jfrog.com/confluence/display/JFROG/Install).
 
